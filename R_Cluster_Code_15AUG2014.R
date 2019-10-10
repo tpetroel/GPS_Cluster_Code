@@ -1,4 +1,4 @@
-## Cluster Identification Code, written by Albon Guillemot, Nathan Svoboda, and Tyler Petroelje
+## Cluster Identification Code, written by Alban Guillaumet, Nathan Svoboda, and Tyler Petroelje
 # Last edited 15 August, 2014
 
 ## This code was written to identify potential predation sites ("clusters") by    
