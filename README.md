@@ -1,5 +1,5 @@
 # GPS_Cluster_Code
-## R code for identifying clusters of GPS locations to identify potential carnivore predation sites.
+## R script for identifying clusters of GPS locations to identify potential carnivore predation sites.
 
 Cluster Identification Code, written by Alban Guillaumet, Nathan Svoboda, and Tyler Petroelje.
 Last edited 15 August, 2014.
